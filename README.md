@@ -3,9 +3,9 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 ## Follows are accepted papers:
 
-[1] [Temporal Difference Variational Auto-Encoder](https://openreview.net/forum?id=S1x4ghC9tQ)
+[1] [Temporal Difference Variational Auto-Encoder](https://openreview.net/forum?id=S1x4ghC9tQ)  [`Chinese Paper Note`](https://www.jianshu.com/p/fa4f5b270c01)
 
-[2] [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm)
+[2] [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://openreview.net/forum?id=HyxPx3R9tm) [`Chinese Paper Note`](https://www.jianshu.com/p/a9c1c8ce3acb)
 
 [3] [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=H1emus0qF7)
 
