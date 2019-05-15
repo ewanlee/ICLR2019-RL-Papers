@@ -9,7 +9,7 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [3] [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=H1emus0qF7)
 
-[4] [Composing Complex Skills by Learning Transition Policies with Proximity Reward Induction](https://openreview.net/forum?id=rygrBhC5tQ)
+[4] [Composing Complex Skills by Learning Transition Policies with Proximity Reward Induction](https://openreview.net/forum?id=rygrBhC5tQ) [Paper Note TBW]
 
 [5] [Exploration by random network distillation](https://openreview.net/forum?id=H1lJJnR5Ym)
 
