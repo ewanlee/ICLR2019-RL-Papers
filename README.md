@@ -15,13 +15,13 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [6] [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7)
 
-[7] [Learning to Navigate the Web](https://openreview.net/forum?id=BJemQ209FQ)
+[7] [Learning to Navigate the Web](https://openreview.net/forum?id=BJemQ209FQ)[Paper Note TBW]
 
 [8] [Variance Reduction for Reinforcement Learning in Input-Driven Environments](https://openreview.net/forum?id=Hyg1G2AqtQ)
 
 [9] [ProMP: Proximal Meta-Policy Search](https://openreview.net/forum?id=SkxXCi0qFX)
 
-[10] [Learning Self-Imitating Diverse Policies](https://openreview.net/forum?id=HyxzRsR9Y7)
+[10] [Learning Self-Imitating Diverse Policies](https://openreview.net/forum?id=HyxzRsR9Y7)[Paper Note TBW]
 
 [11] [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/forum?id=r1lyTjAqYX)
 
