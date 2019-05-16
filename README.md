@@ -33,37 +33,37 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [15] [Episodic Curiosity through Reachability](https://openreview.net/forum?id=SkeK3s0qKQ)
 
-[16] [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://openreview.net/forum?id=Hk4fpoA5Km)
+[16] [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://openreview.net/forum?id=Hk4fpoA5Km)[Paper Note TBW]
 
 [17] [Knowledge Flow: Improve Upon Your Teachers](https://openreview.net/forum?id=BJeOioA9Y7)
 
 [18] [Supervised Policy Update for Deep Reinforcement Learning](https://openreview.net/forum?id=SJxTroR9F7)
 
-[19] [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX)
+[19] [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX)[Paper Note TBW]
 
 [20] [Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL](https://openreview.net/forum?id=HyxAfnA5tm)
 
 [21] [Information-Directed Exploration for Deep Reinforcement Learning](https://openreview.net/forum?id=Byx83s09Km)
 
-[22] [Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search](https://openreview.net/forum?id=BJG0voC9YQ)
+[22] [Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search](https://openreview.net/forum?id=BJG0voC9YQ)[Paper Note TBW]
 
 [23] [Solving the Rubik's Cube with Approximate Policy Iteration](https://openreview.net/forum?id=Hyfn2jCcKm)
 
 [24] [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://openreview.net/forum?id=B1gTShAct7)
 
-[25] [Hindsight policy gradients](https://openreview.net/forum?id=Bkg2viA5FQ)
+[25] [Hindsight policy gradients](https://openreview.net/forum?id=Bkg2viA5FQ)[Paper Note TBW]
 
 [26] [Optimal Control Via Neural Networks: A Convex Approach](https://openreview.net/forum?id=H1MW72AcK7)
 
 [27] [NADPEx: An on-policy temporally consistent exploration method for deep reinforcement learning](https://openreview.net/forum?id=rkxciiC9tm)
 
-[28] [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://openreview.net/forum?id=BkeU5j0ctQ)
+[28] [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://openreview.net/forum?id=BkeU5j0ctQ)[Paper Note TBW]
 
 [29] [Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications](https://openreview.net/forum?id=HkgqFiAcFm)
 
 [30] [Policy Transfer with Strategy Optimization](https://openreview.net/forum?id=H1g6osRcFQ)
 
-[31] [Unsupervised Control Through Non-Parametric Discriminative Rewards](https://openreview.net/forum?id=r1eVMnA9K7)
+[31] [Unsupervised Control Through Non-Parametric Discriminative Rewards](https://openreview.net/forum?id=r1eVMnA9K7)[Paper Note TBW]
 
 [32] [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://openreview.net/forum?id=BJeWUs05KQ)
 
