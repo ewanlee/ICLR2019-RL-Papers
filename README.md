@@ -27,7 +27,7 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [12] [Large-Scale Study of Curiosity-Driven Learning](https://openreview.net/forum?id=rJNwDjAqYX)
 
-[13] [Diversity is All You Need: Learning Skills without a Reward Function](https://openreview.net/forum?id=SJx63jRqFm)
+[13] [Diversity is All You Need: Learning Skills without a Reward Function](https://openreview.net/forum?id=SJx63jRqFm)[Paper Note TBW]
 
 [14] [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)
 
