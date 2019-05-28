@@ -9,37 +9,37 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [3] [Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://openreview.net/forum?id=H1emus0qF7)
 
-[4] [Composing Complex Skills by Learning Transition Policies with Proximity Reward Induction](https://openreview.net/forum?id=rygrBhC5tQ) [Paper Note TBW]
+[4] [Composing Complex Skills by Learning Transition Policies with Proximity Reward Induction](https://openreview.net/forum?id=rygrBhC5tQ) [`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [5] [Exploration by random network distillation](https://openreview.net/forum?id=H1lJJnR5Ym)
 
 [6] [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7)
 
-[7] [Learning to Navigate the Web](https://openreview.net/forum?id=BJemQ209FQ)[Paper Note TBW]
+[7] [Learning to Navigate the Web](https://openreview.net/forum?id=BJemQ209FQ)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [8] [Variance Reduction for Reinforcement Learning in Input-Driven Environments](https://openreview.net/forum?id=Hyg1G2AqtQ)
 
 [9] [ProMP: Proximal Meta-Policy Search](https://openreview.net/forum?id=SkxXCi0qFX)
 
-[10] [Learning Self-Imitating Diverse Policies](https://openreview.net/forum?id=HyxzRsR9Y7)[Paper Note TBW]
+[10] [Learning Self-Imitating Diverse Policies](https://openreview.net/forum?id=HyxzRsR9Y7)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [11] [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/forum?id=r1lyTjAqYX)
 
 [12] [Large-Scale Study of Curiosity-Driven Learning](https://openreview.net/forum?id=rJNwDjAqYX)
 
-[13] [Diversity is All You Need: Learning Skills without a Reward Function](https://openreview.net/forum?id=SJx63jRqFm)[Paper Note TBW]
+[13] [Diversity is All You Need: Learning Skills without a Reward Function](https://openreview.net/forum?id=SJx63jRqFm)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [14] [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/forum?id=SJxu5iR9KQ)
 
 [15] [Episodic Curiosity through Reachability](https://openreview.net/forum?id=SkeK3s0qKQ)
 
-[16] [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://openreview.net/forum?id=Hk4fpoA5Km)[Paper Note TBW]
+[16] [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://openreview.net/forum?id=Hk4fpoA5Km)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [17] [Knowledge Flow: Improve Upon Your Teachers](https://openreview.net/forum?id=BJeOioA9Y7)
 
 [18] [Supervised Policy Update for Deep Reinforcement Learning](https://openreview.net/forum?id=SJxTroR9F7)
 
-[19] [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX)[Paper Note TBW]
+[19] [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX)
 
 [20] [Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL](https://openreview.net/forum?id=HyxAfnA5tm)
 
@@ -51,19 +51,19 @@ The Reinforcement-Learning-Related Papers of ICLR 2019
 
 [24] [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://openreview.net/forum?id=B1gTShAct7)
 
-[25] [Hindsight policy gradients](https://openreview.net/forum?id=Bkg2viA5FQ)[Paper Note TBW]
+[25] [Hindsight policy gradients](https://openreview.net/forum?id=Bkg2viA5FQ)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [26] [Optimal Control Via Neural Networks: A Convex Approach](https://openreview.net/forum?id=H1MW72AcK7)
 
 [27] [NADPEx: An on-policy temporally consistent exploration method for deep reinforcement learning](https://openreview.net/forum?id=rkxciiC9tm)
 
-[28] [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://openreview.net/forum?id=BkeU5j0ctQ)[Paper Note TBW]
+[28] [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://openreview.net/forum?id=BkeU5j0ctQ)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [29] [Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications](https://openreview.net/forum?id=HkgqFiAcFm)
 
 [30] [Policy Transfer with Strategy Optimization](https://openreview.net/forum?id=H1g6osRcFQ)
 
-[31] [Unsupervised Control Through Non-Parametric Discriminative Rewards](https://openreview.net/forum?id=r1eVMnA9K7)[Paper Note TBW]
+[31] [Unsupervised Control Through Non-Parametric Discriminative Rewards](https://openreview.net/forum?id=r1eVMnA9K7)[`Chinese Paper Note`](https://www.jianshu.com/p/b63162bbcd83)
 
 [32] [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://openreview.net/forum?id=BJeWUs05KQ)
 
